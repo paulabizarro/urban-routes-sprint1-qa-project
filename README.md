@@ -61,7 +61,7 @@ Abaixo estão detalhados alguns dos bugs de maior impacto técnico e de negócio
 
 ## 📂 6. Artefatos e Evidências
 * 📊 **Planilha de Testes Completa:** Os casos de teste detalhados e a matriz de rastreabilidade de defeitos podem ser consultados diretamente na [Planilha de Casos de Teste do Urban Routes](https://docs.google.com/spreadsheets/d/1dG0VjihFrGDI9GfkdUBkFFIacfiGN5Rj/edit?usp=sharing).
-* 📸 **Evidências Visuais:** As mídias e capturas de tela utilizadas como evidências para os relatórios de bug encontram-se organizadas na pasta `/evidencias/print1.png` deste repositório.
+* 📸 **Evidências Visuais:** As mídias e capturas de tela utilizadas como evidências para os relatórios de bug encontram-se organizadas na pasta `/evidencias` deste repositório.
 
 ---
 Análise conduzida por Paula R. R. Bizarro.
